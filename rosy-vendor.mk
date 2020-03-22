@@ -1246,6 +1246,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rosy/proprietary/etc/permissions/qti_libpermissions.xml:system/etc/permissions/qti_libpermissions.xml \
     vendor/xiaomi/rosy/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/xiaomi/rosy/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
+    vendor/xiaomi/rosy/proprietary/etc/res/animation.txt:root/res/values/charger/animation.txt \
+    vendor/xiaomi/rosy/proprietary/etc/res/battery_scale.png:root/res/images/charger/battery_scale.png \
+    vendor/xiaomi/rosy/proprietary/etc/res/battery_font.png:root/res/images/charger/battery_font.png \
     vendor/xiaomi/rosy/proprietary/etc/wfdconfig.xml:system/etc/wfdconfig.xml \
     vendor/xiaomi/rosy/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
     vendor/xiaomi/rosy/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
